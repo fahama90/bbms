@@ -1,0 +1,10 @@
+Firstname:fa
+Fathertname:faa
+Mothername:nu
+Date of Birh:9jan
+Mobile no:11111
+Gender:Others
+Email:111@
+Blood Group:A+
+City:\zz
+Full Address:zzzz----
